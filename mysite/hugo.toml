@@ -101,3 +101,9 @@ homeTitle = "Dylan Ramelli" # Set a different text for the header on the home pa
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[resources]]
+  src = 'documents/cv.pdf'
+  title = 'Resume'
+  [resources.params]
+    icon = 'photo'
