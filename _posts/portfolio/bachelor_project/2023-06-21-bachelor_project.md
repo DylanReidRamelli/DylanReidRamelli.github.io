@@ -1,7 +1,7 @@
 ---
 date: '2023-06-21'
 draft: true
-title: 'Bachelor_project'
+title: 'Bachelor Project'
 ---
 
 # Abstract

@@ -1,4 +1,5 @@
 ---
-icon: fas fa-archive
+layout: categories
+icon: fas fa-stream
 order: 1
 ---

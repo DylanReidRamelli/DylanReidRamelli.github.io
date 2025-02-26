@@ -13,7 +13,7 @@ In University I worked as a Research Assistant in Prof. Rolf Krause's group for 
 
 
 - [Download my CV here](/assets/img/latest_cv.pdf)
-- Email: dylan.reid@bluewin.ch
+- Email: [dylan.reid@bluewin.ch](dylan.reid@bluewin.ch)
 - Location: Bellinzona, Switzerland
 
 
@@ -57,4 +57,10 @@ Diploma
 
 # References
 
+### Dr. Diego Rossinelli from USI - Università della Svizzera Italiana 
+[diego.rossinelli@usi.ch](diego.rossinelli@usi.ch)
+### Dr. Patrick Zulian from USI - Università della Svizzera Italiana 
+[patrick.zulian@usi.ch](patrick.zulian@usi.ch)
+
 # Personal Interests
+In my spare time I like to spend it outside of the house going paragliding in the alps, ski touring when it is winter or go for a good run. When I have time at home I like to play some videogames such as Elden Ring and other Souls-Likes, indies like Inside, NEVA, Pentiment. Otherwise I like to learn new things in the area of Copmuter Graphics and Game Development. As of now I am slowly going through the Real-Time Rendering book by Tomas Akenine-Moller and others and I plan to post about my progress in this website. I also plan to create small computer graphics projects using Vulkan and OpenGL, which I will then post on this site. 
