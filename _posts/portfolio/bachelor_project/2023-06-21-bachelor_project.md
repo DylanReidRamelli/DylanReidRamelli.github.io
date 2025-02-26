@@ -2,6 +2,8 @@
 date: '2023-06-21'
 draft: true
 title: 'Bachelor Project'
+categories: [Bachelor]
+pin: true
 ---
 
 # Abstract
