@@ -10,4 +10,6 @@ The present work is concerned with rotations of three-dimensional digital signal
 
 
 ![This is the project's poster that was presented](assets/img/bachelor_project/dylan_ramelli.jpg)
-Project Poster
+[Download Project Poster](assets/img/bachelor_project/dylan_ramelli.pdf)
+
+[Download Project Report](assets/img/bachelor_project/report.pdf)
