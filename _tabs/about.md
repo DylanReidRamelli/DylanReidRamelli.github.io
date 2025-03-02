@@ -16,15 +16,21 @@ In University I worked as a Research Assistant in Prof. Rolf Krause's group for 
 - Email: [dylan.reid@bluewin.ch](mailto:dylan.reid@bluewin.ch)
 - Location: Bellinzona, Switzerland
 
+> "The dream of flight is born within the heart of man, embracing the desire to be free from the confines of the earth's surface.  
+Hopefully the dream includes the possibility of freedom from limiting thought and action.  
+As our imagination is freed to receive greater truths, then fear, closed thinking, and poverty of spirit will be left behind ... far below"
 
-## Project Engineer, AFRY
+Dream of Flight, Lincoln Fox
+
+
+## Project Engineer, AFRY, 05.2024 - 05.2025
 
 * Planned and developed project guidelines to keep federal highway IT infrastructure projects on track. Some key projects included the Mappo Morettina tunnel renovation and the A2 highway renovation (POLUME)—a massive project with a 2 billion Swiss franc budget. I also led the on-site IT infrastructure renovation for the A2 highway in the Bellinzona region.
 * Worked as an ICT consultant on the procurement of a "Standard IT Application" for the Canton of Ticino’s Treasury Office, which handles and pays out over a billion Swiss francs in invoices each year. The goal was to find an ERP solution that improved security, integrated smoothly with existing systems, and leveraged machine learning and AI to predict future payments.
 * Researched and recommended operating system migrations to boost performance and user experience on a United Nations renovation project.
 
 
-## Research Assistant, Universita della Svizzera Italiana
+## Research Assistant, Universita della Svizzera Italiana, 01.2020 - 04.2024
 
 * I collaborated on the creation of a frontend interface for U.T.O.P.I.A an embedded domain specific language designed for parallel non-linear solution strategies and finite element analysis. [Link to Utopia bitbucket project](https://bitbucket.org/zulianp/utopia/src/master/)
 * I collaborated on the research project FRANETG "Fracture Network Growth". The focus was on restructuring the entire CMake project to improve CI/CD. 
