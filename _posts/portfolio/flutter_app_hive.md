@@ -2,7 +2,7 @@
 date: '2025-07-14'
 draft: true
 title: 'Flutter App Beehive'
-categories: 'Apps'
+categories: [Apps]
 ---
 
 # Project Plan
