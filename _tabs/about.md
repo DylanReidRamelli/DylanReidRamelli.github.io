@@ -37,7 +37,9 @@ Dream of Flight, Lincoln Fox
 
 # Education
 
-## Bachelor of Science in Informatics, 2019 - 2023, USI Universita della Svizzera Italiana
+## Master of Science in Informatics, 2025 - 2027, USI Università della Svizzera Italiana
+
+## Bachelor of Science in Informatics, 2019 - 2023, USI Università della Svizzera Italiana
 ![Bsc Diploma](assets/img/diploma_bsc_informatics.jpg){: width="350"}
 Diploma
 
