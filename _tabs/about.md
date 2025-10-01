@@ -12,7 +12,7 @@ I am a Software/Project Engineer at AFRY Switzerland(Bellinzona) in the BSA (Bet
 In University I worked as a Research Assistant in Prof. Rolf Krause's group for Dr. Patrick Zulian. Most notably I contributed to the various C++ projects to improve CI/CD processes that helped scientific code to run on both UNIX systems and Windows.
 
 
-- [Download my CV here](/assets/img/latest_cv.pdf)
+- [Download my CV here](/assets/img/cv_14_09_2025.pdf)
 - Email: [dylan.reid@bluewin.ch](mailto:dylan.reid@bluewin.ch)
 - Location: Bellinzona, Switzerland
 
