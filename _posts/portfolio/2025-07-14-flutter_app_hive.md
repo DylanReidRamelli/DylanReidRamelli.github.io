@@ -11,10 +11,6 @@ The project consists in a multi-platform application for apiary management in Sw
 The goal is in having a platform where the user can monitor and manage their apiaries across a wide range of devices. The taget audience for now is for users that have a maximum amount of 100-200 hives.
 
 
-
-
-
-
 ## Features
 
 - Per apiary management of multiple hives. 
@@ -22,9 +18,8 @@ The goal is in having a platform where the user can monitor and manage their api
 - Topographical map of each apirary location with data visualization of: weather(temperature, humidity, wind, phenological data), sun exposure. Data acquired freely by swiss government services meteo-swiss, swiss-topo.
    
 
-
-
-
-
 ## Tools
 - Flutter and Dart for mulitplatform development
+
+# Milestone - 1 - Added GPS + Cellular positioning with SwissTopo maps.
+
